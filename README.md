@@ -2,7 +2,7 @@
 
 # Hi I'm Spoorthy Deshpande
 
-## <code style="color: #ff4a5a;">Building with Cyber-Physical Systems + IoT Hardware</code>
+
 
 I am an engineering student combining **Cyber-Physical Systems** with a minor specialization in **Data Science**. 
 My expertise spans the complete embedded and analytical pipeline, from designing real-time sensor logic to training machine learning models. 
